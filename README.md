@@ -3,11 +3,11 @@
 Welcome to the IncredibleIndia-FlagAnimation project - an animated representation of the Indian flag using HTML and CSS! 🎉
 
 ## Table of Contents
-- About
-- Preview
-- How to Use
-- Customization
-- Connect With Us
+- [About](#about)
+- [Preview](#preview)
+- [How to use](#howtouse)
+- [Customization](#customization)
+- [Connect with us](#connect)
 
 ## About
 IncredibleIndia-FlagAnimation is a simple project aimed at creating a visually appealing animation of the Indian flag using HTML and CSS.
